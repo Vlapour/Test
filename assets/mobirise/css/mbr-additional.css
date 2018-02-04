@@ -1450,13 +1450,13 @@ body {
 .cid-qIFmQTbO6l {
   padding-top: 160px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background10.jpg");
+  background-image: url("../../../assets/images/image00003-1024x576.jpg");
 }
 .cid-qIFmQTbO6l .media-content .btn-bgr {
   z-index: 0;
 }
 .cid-qIFmQTbO6l .mbr-overlay {
-  background: linear-gradient(90deg, #52e2dd, #8120c9);
+  background: linear-gradient(90deg, #333333, #0e0e0e);
 }
 @media (min-width: 992px) {
   .cid-qIFmQTbO6l .media-content {
@@ -1478,7 +1478,7 @@ body {
 .cid-qIFocptYya {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/20171211-91249-2000x1125.jpg");
 }
 .cid-qIFocptYya .card-img {
   padding: 0 0 3rem;
@@ -1519,6 +1519,13 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qIFocptYya .card-title {
+  color: #ffffff;
+}
+.cid-qIFocptYya .mbr-text,
+.cid-qIFocptYya .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-qIFojZqpM2 .modal-body .close {
   background: #1b1b1b;
